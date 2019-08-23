@@ -53,7 +53,7 @@
   ],
   "license": "Apache-2.0",
   "name": "@aspen-elements/google-map",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "main": "google-map-directions.js",
   "directories": {
     "test": "test"
